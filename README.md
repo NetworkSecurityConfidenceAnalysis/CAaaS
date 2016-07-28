@@ -1,4 +1,8 @@
 # CAaaS
 Confidence Analysis as a Service
 
-This public project is a placeholder for a suite of projects being develped in part with the cooperation of the University of Colorado.  If you were referred here by a research paper citation, the citations are organized by paper in the research area of this site.  Other project resources are organized by topic.  If you have any questions or would like access to a private project, feel free to contact Scott Melton at smelton2@uccs.edu.
+* This site is referenced in several research papers involving SDN Security Confidence Analysis.  This reference material has been moved to a separate repository at https://github.com/ScottMelton/SDN-Security-Confidence-Assessment.
+
+This project, Confidence Assessment as a Service (CAaaS), is the repository for a suite of applications being developed in conjunction with the University of Colorado that attempt to provide a security confidence analysis for software defined networks.
+
+If you have any questions or would like access to a private project, feel free to contact Scott Melton at smelton2@uccs.edu.
