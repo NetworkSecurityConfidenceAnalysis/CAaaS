@@ -1,7 +1,7 @@
 # CAaaS
 <b>Confidence Analysis as a Service</b>
 
-* This site is referenced in several research papers involving SDN Security Confidence Analysis.  This reference material has been moved to a separate repository at https://github.com/NetworkSecurityConfidenceAnalysis/Network-Security-Confidence-Analysis
+* This site is referenced in several papers involving our SDN Security Confidence Analysis research.  Due to anonymity requirements for some conferences, this reference material has been moved to a separate repository at https://github.com/NetworkSecurityConfidenceAnalysis/Network-Security-Confidence-Analysis
 
 This project, <b>Confidence Assessment as a Service (CAaaS)</b>, is the repository for a suite of applications being developed in conjunction with the University of Colorado that attempt to provide a security confidence analysis for software defined networks(SDN) and SDN/hybrid networks.
 
